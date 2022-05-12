@@ -1,4 +1,4 @@
-# Mysql-projects/ pySimpleGUI/ mysqlconnector
+# MysqlCreateCommands/ pySimpleGUI/ mysqlconnector
 Projects that entail sql database with python
 
 I first created a database shell in the mysql bench using the hope_hosp.sql file in this repository.
